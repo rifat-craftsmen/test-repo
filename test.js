@@ -1,0 +1,6 @@
+async function sum(a, b) {
+    let c = a+b;
+    console.log(a);
+    console.log(b);
+    console.log(c);
+}
